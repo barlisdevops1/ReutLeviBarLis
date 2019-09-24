@@ -60,7 +60,7 @@
 		<br>
 		<div>
 		<br><h4 style="text-align:center;"><u>Created by:</u></h4>
-		<h4 style="text-align:center;"> <%="Bar" %></h4>
+		<h4 style="text-align:center;"> <%="Bar Lis" %></h4>
 		<h4 style="text-align:center;"> <%="Reut Levi" %></h4>
 		<br>
 		<h4></h4>
